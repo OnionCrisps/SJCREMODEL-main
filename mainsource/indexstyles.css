@@ -1,0 +1,51 @@
+body{
+    position: relative;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    background-color: white;
+    font-size: 25px;
+    color: white;
+}
+
+a, a:hover, a:focus, a:active{
+    text-decoration: none;
+    color: inherit;
+}
+
+.nav_menus{
+    display: flex;
+    padding: 15px;
+    justify-items: right;
+    min-width: 150px 2rem;
+    background-color: #1515c9;
+}
+
+.home_menu{
+    position: relative;
+    display: flex;
+    padding: 15px;
+}
+
+.resource_menu{
+    position: relative;
+    display: flex;
+    padding: 15px;
+}
+
+.student_menu{
+    position: relative;
+    display: flex;
+    padding: 15px;
+}
+
+.account_menu{
+    position: relative;
+    display: flex;
+    padding: 15px;
+}
+
+.connect_title{
+    position: relative;
+    display: flex;
+    padding: 15px;
+}
